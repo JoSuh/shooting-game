@@ -1,6 +1,3 @@
-# Created by: Mr. Coxall
-# Created on: Sep 2016
-# Created for: ICS3U
 # This program is the first file in a multi-scene game template
 #    This template is meant to be used with the Xcode template,
 #    to make apps for the App Store.
@@ -12,10 +9,6 @@
 # This file creates the UIView that will be used by Xcode,
 #  then creates the scene inside it. once everything is ready
 #  to go, the scene transitions immediately to the first scene.
-# It is assumed you bring along all your assets,
-#   and not use any of the mornal ones built into Pythonista.
-#y
-# To exit the app in Pythonista, pull down with 2 fingers.
 
 from scene import *
 import ui
